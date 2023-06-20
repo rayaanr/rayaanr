@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Rayaan! 👋
 
-<!--
-**rayaanr/rayaanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Second-year CS Undergraduate
 
-Here are some ideas to get you started:
+👩‍💻 I'm into Web and Software Dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently learning React.
+
+📎 Looking for an Internship.
+
+💸 Losing money from crypto is my hobby.
+
+<br/>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rayaanr.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayaanr/)
+
+## 🛠 Skills
+Javascript, HTML, CSS, React, Java, Python
