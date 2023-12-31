@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">2nd-year CS Undergraduate from 🇱🇰</h3>
+<h3 align="left">3rd-year CS Undergraduate from 🇱🇰</h3>
 
 ###
 
