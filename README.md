@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩‍💻 I'm into Web and Software Dev.<br>✨ Creating bugs since 2020<br>📚 I'm currently learning React<br>🎲 Stackin' L's in the crypto game, it's my kinda thrill. 💸💥</p>
+<p align="left">👩‍💻 I'm into Web and Software Dev.<br>✨ Creating bugs since 2020<br>📚 I'm currently learning NextJS<br>🎲 Stackin' L's in the crypto game, it's my kinda thrill. 💸💥</p>
 
 ###
 
@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
