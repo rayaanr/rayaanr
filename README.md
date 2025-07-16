@@ -11,6 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222222??style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-222222??style=flat&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-222222??style=flat&logo=nextdotjs)
+![Nest.js](https://img.shields.io/badge/-Nest.js-222222??style=flat&logo=nestjs)
 
 ###### Forgot how to code on:
 ![Python](https://img.shields.io/badge/-Python-222222??style=flat&logo=python)
