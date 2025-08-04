@@ -4,7 +4,7 @@
 - All-in on `NextJS`  
 - Exploring the world of blockchain  
 - Learning Back-End and SQL  
-- Building [chainlyze.ai](https://chainlyze.ai)
+- Building [chainlyze.ai](https://app.chainlyze.ai)
 
 ###### Creating bugs using:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222??style=flat&logo=javascript)
